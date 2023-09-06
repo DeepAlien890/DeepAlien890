@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DeepAlien890
+- 👀 I’m interested in Deep Learning and Statistical Math
+- 🌱 I’m currently learning AGI.
+- 💞️ I’m looking to collaborate on Deep Learning Projects
+- 📫 How to reach me ....
